@@ -1,4 +1,4 @@
 # Quotes-jQuery
 
-A Already Did project but used jQuery Functionalities allover 
-Take a Look - 
+A Already Did project but used jQuery Functionalities allover \
+Take a Look - https://jqueryquotes.netlify.app/
